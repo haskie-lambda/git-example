@@ -14,7 +14,7 @@ for x in list(seq):
         case "C": c+=1
         case "G": g+=1
 
-print("a: ", a)
-print("g: ", g)
-print("t: ", t)
-print("c: ", c)
+print("A:", a)
+print("G:", g)
+print("T:", t)
+print("C:", c)
