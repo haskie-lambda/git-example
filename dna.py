@@ -24,6 +24,7 @@ for seq in dnaArgs:
             case "G": g+=1
 
 print("x")
+print("c")
 print("A:", a)
 print("G:", g)
 print("T:", t)
