@@ -22,7 +22,7 @@ for seq in dnaArgs:
             case "G": g+=1
             case "C": c+=1
             case "G": g+=1
-
+xwxxxx
 print("A:", a)
 print("G:", g)
 print("T:", t)
