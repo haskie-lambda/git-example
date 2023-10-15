@@ -23,6 +23,8 @@ for seq in dnaArgs:
             case "C": c+=1
             case "G": g+=1
 
+print("x")
+print("y")
 print("A:", a)
 print("G:", g)
 print("T:", t)
