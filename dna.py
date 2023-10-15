@@ -5,6 +5,7 @@ g=0
 t=0
 c=0
 
+# some other comment
 # multiple args handling
 for seq in sys.argv:
     for x in list(seq):
