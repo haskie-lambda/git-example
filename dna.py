@@ -11,7 +11,7 @@ match sys.argv:
         print("version 1.0")
         quit()
     case seqs:
-        dnaArgs = seqs
+        dnaArgs = seqs[1:]
 
 # some other comment
 # multiple args handling
